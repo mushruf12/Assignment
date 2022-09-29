@@ -1,4 +1,5 @@
 package question1;
+@FunctionalInterface
 interface Square {
     int calculate(int x);
 }
